@@ -1,4 +1,4 @@
-注：install.sh 和 singbox.sh 基本相同，选其一即可。
+# 注：install.sh 和 singbox.sh 基本相同，选其一即可。
 
 ## **更新内容**
 - **当前版本1.12.1。**
